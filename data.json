@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Уголовный кодекс РК",
+        "number": "226-V",
+        "year": 2014,
+        "in_force": true
+    },
+    {
+        "title": "Трудовой кодекс РК",
+        "number": "414-V",
+        "year": 2015,
+        "in_force": true
+    },
+    {
+        "title": "Кодекс РК «О браке (супружестве) и семье»",
+        "number": "518-IV",
+        "year": 2011,
+        "in_force": true
+    },
+    {
+        "title": "Уголовный кодекс РК (старый)",
+        "number": "167-I",
+        "year": 1997,
+        "in_force": false
+    },
+    {
+        "title": "Трудовой кодекс РК (старый)",
+        "number": "251-III",
+        "year": 2007,
+        "in_force": false
+    }
+]
