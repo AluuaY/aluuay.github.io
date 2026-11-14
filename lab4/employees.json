@@ -1,0 +1,74 @@
+[
+    {
+        "department_id": 1,
+        "hired": "2019-03-11",
+        "id": 1,
+        "name": "Айгерим Нурланова",
+        "position": "Старший юрист",
+        "salary": 850000
+    },
+    {
+        "department_id": 1,
+        "hired": "2022-09-01",
+        "id": 2,
+        "name": "Даниял Ахметов",
+        "position": "Юрист",
+        "salary": 520000
+    },
+    {
+        "department_id": 1,
+        "hired": "2024-02-12",
+        "id": 3,
+        "name": "Мария Ким",
+        "position": "Помощник юриста",
+        "salary": 370000
+    },
+    {
+        "department_id": 2,
+        "hired": "2015-06-15",
+        "id": 4,
+        "name": "Ерлан Жумабаев",
+        "position": "Партнёр",
+        "salary": 1500000
+    },
+    {
+        "department_id": 2,
+        "hired": "2021-11-22",
+        "id": 5,
+        "name": "Камила Оспанова",
+        "position": "Юрист",
+        "salary": 560000
+    },
+    {
+        "department_id": 2,
+        "hired": "2025-01-20",
+        "id": 6,
+        "name": "Тимур Беков",
+        "position": "Помощник юриста",
+        "salary": 300000
+    },
+    {
+        "department_id": 3,
+        "hired": "2020-04-06",
+        "id": 7,
+        "name": "Алина Сергеева",
+        "position": "Налоговый консультант",
+        "salary": 700000
+    },
+    {
+        "department_id": 3,
+        "hired": "2023-07-03",
+        "id": 8,
+        "name": "Арман Касымов",
+        "position": "Юрист",
+        "salary": 500000
+    },
+    {
+        "department_id": 4,
+        "hired": "2021-02-01",
+        "id": 9,
+        "name": "Дана Ибраева",
+        "position": "HR-менеджер",
+        "salary": 450000
+    }
+]
